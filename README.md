@@ -8,6 +8,8 @@ It is an interactive web application and can be accessed using the URL: http://1
 At first, the application will ask to log in and then will allow to create, delete, modify your posts.
 
 To log in to the program:
+
+
 | Username  | Password |
 | ------------- | ------------- |
 | Bajrush  | tushi  |

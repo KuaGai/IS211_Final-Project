@@ -10,6 +10,7 @@ At first, the application will ask to log in and then will allow to create, dele
 To log in to the program:
 **Username**  | **Password**
 ------------------------- | -------------------------
+
 Bajrush    |    tushi
-Nika  |    kika
+Nika    |    kika
 Kobe   |   bryant
